@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Kristians
+                    Kristians Zile
                 </div>
 
                 <div class="links">
